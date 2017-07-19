@@ -99,3 +99,9 @@ fabric.properties
 # modules.xml
 # .idea/misc.xml
 # *.ipr
+/.idea/sbt.xml
+/.idea/scala_compiler.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/modules/tasks-build.iml
+/.idea/modules/tasks.iml
